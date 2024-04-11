@@ -19,3 +19,4 @@ print("Congratulation !")
 print("------------------")
 
 "Program by nattawat ruensumrit"
+"this program for storing the score each subject"
