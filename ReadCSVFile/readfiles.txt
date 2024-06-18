@@ -1,0 +1,5 @@
+student nickname,student-ID,Favourite career
+Tai,66070503420,Game-dev and Cyber-security
+patrik,66070503488,programmer
+jeb,66070501512,Game-dev
+Name,66070501510,chemistry-teacher
